@@ -5,10 +5,8 @@ what problem you have found and how big is that problem.
 Secondly you analyze that whether you have any appropriate solution.If you have an appropriate solution ,then what are requirements of the implementation   for the solution.
 Our found problem was really a big problem as according to our surveys,many people have found scenario's when someone's got scammed in the matter of money.So this serious problem 
 called insecurity on Web Storage should be resolved.To resolve this Problem we researched and found a solution like applying decentralized Cloud storage   network system.
-Requirements for implementing this idea will be 
-
-
-Working of this idea is that the data is stored inside the various nodes of a P2P or peer-to-peer network, creating resilient file storage. All in all, it refers to files stored on multiple computers. When you require a specific file, you request it, and you’ll be able to receive it.
+But there are requirements for this idea that data should not be placed at one place and it should be in encrypted form. 
+Its Working is like the data is stored inside the various nodes of a peer-to-peer network, creating resilient file storage. All in all, it refers to files stored on multiple computers. When you require a specific file, you request it, and you’ll be able to receive it.
 Some Companies like Sia,Fliecoin ,Storj,etc are also working on that idea. 
 
 When this idea will be implemented,your problem will be resolved as you will have multipe benefits. 
@@ -18,10 +16,10 @@ Load balancing is an essential principle in blockchain-based decentralized stora
 
 It lightens the server’s load while also reducing network traffic. In addition, the server can allocate and optimize data to eliminate bottlenecks in the central system resources.  
 
-In decentralized storage, files are broken down and spread across several nodes. This ensures that even if one node is hacked the rest are not affected. No single point of failure, trustless architecture, and granular access controls are additional features that enhance security.  
+In decentralized storage, files are broken down and spread across several nodes. This ensures that even if one node gets manipulated the rest are not affected. No single point of failure, trustless architecture, and granular access controls are additional features that enhance security.  
 
 Decentralized clouds have less downtime because data is distributed across unrelated nodes. So, even if a particular server goes down, you can retrieve your data from other nodes.  
 
 The apparent next stage in technological advancement refers to decentralized storage. Large organizations' cloud storage frequently provides a single point of failure for data. Servers falling unavailable or pricey data breaches occurring on such servers are examples of this.  
 
-So we recommend you to implement this idea as it will benefit you in many ways and it is certainly the future, Thus, keep an eye on it, so you don't fall behind in web3,Thankyou.  
+So that's why ,we recommend you to implement this idea as it will benefit you in many ways and it is certainly the future, Thus, keep an eye on it, so you don't fall behind in web3,Thankyou.  
