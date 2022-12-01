@@ -50,6 +50,7 @@ A blockchain-based decentralized cloud storage platform works in the following m
 - There is an audit process to ensure that the farmers are holding the shard they had agreed to hold.
 - When farmers successfully deliver on their obligation they will accumulate a good reputation as well as cryptocurrencies.
 - If farmers default on the terms and conditions then they aren‘t paid. Repeated instances of default may result in disqualification.
+
 Note: There is one differentiation in the current centralized servers for cloud storage that decentralized blockchain-powered cloud storage makes redundant. In the current centralized landscape of ’public cloud‘ and ’private cloud’, both use the technology framework of cloud computing. 
 
 However, the public cloud is a multi-tenant environment where the cloud storage service provider stores massive amounts of data from many individuals and businesses, whereas the private cloud is designed for a single organization. 
