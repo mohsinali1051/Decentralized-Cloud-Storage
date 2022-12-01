@@ -25,3 +25,11 @@ Cloud computing is one of the hottest topics in the field of information systems
 
 Shah, Meet & Shaikh, Mohammedhasan & Mishra, Vishwajeet & Tuscano, Grinal. (2020). Decentralized Cloud Storage Using Blockchain. 384-389. 10.1109/ICOEI48184.2020.9143004. 
 
+
+For all of its plus points, cloud computing has one or more disadvantages. There’s a single point of failure when the provider goes offline. The ability to censor or mask content and no real economic incentive to reduce prices.
+
+covalent blog post
+
+#### Gap 
+
+There are three major challenges that stand in the way of the widespread adoption of decentralized cloud storage. Decentralized cloud storage scatters data across multiple cloud storage devices in a variety of places. Some organizations are reluctant to use the technology because of the problems it could cause.
