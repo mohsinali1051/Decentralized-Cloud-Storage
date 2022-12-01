@@ -8,7 +8,6 @@ Cloud computing is the on-demand availability of computer system resources, espe
 
 ##### So what is decentralized cloud computing?
 
-Cloud computing is the on-demand availability of computer system resources, especially data storage ( cloud storage) and computing power, without direct active management by the user. Large clouds often have functions distributed over multiple locations, each location being a data center.
 The decentralized cloud computing model promises to support scalable applications while retaining the safeguards of a decentralized, trust-minimized ecosystem. Decentralization means that the system does not rely on centralized servers or data centers, so there can be no single point of failure.
 The origins of decentralized computing originate from the work of David Chaum. During 1979 he conceived the first concept of a decentralized computer system known as Mix Network.
 
