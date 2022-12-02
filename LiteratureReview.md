@@ -27,7 +27,8 @@ Shah, Meet & Shaikh, Mohammedhasan & Mishra, Vishwajeet & Tuscano, Grinal. (2020
 
 For all of its plus points, cloud computing has one or more disadvantages. There’s a single point of failure when the provider goes offline. The ability to censor or mask content and no real economic incentive to reduce prices.
 
-covalent blog post
+[3]	Covalent, “Research on decentralized cloud computing on the blockchain,” Covalent, 03-Sep-2018. [Online]. Available: https://medium.com/covalent-hq/research-on-decentralized-cloud-computing-on-the-blockchain-2f1f3d5bc342. [Accessed: 02-Dec-2022].
+
 
 There is one differentiation in the current centralized servers for cloud storage that decentralized blockchain-powered cloud storage makes redundant. In the current centralized landscape of ’public cloud‘ and ’private cloud’, both use the technology framework of cloud computing. 
 However, the public cloud is a multi-tenant environment where the cloud storage service provider stores massive amounts of data from many individuals and businesses, whereas the private cloud is designed for a single organization. 
@@ -54,7 +55,8 @@ Web 3.0 is still evolving. Most Dapps work on on-chain and off-chain concepts to
 Trying to do a settlement on a Bitcoin or Ethereum can take up to 30 to 60 minutes, as the protocols are evolving from proof of work (POW) to proof of stake (POS), and the number of nodes that need consensus is serial in nature.
 
 
-Devteam.space. [Online]. Available: https://www.devteam.space/blog/what-is-decentralized-cloud-computing/#:~:text=It%20is%20the%20availability%20of,central%20control%20in%20the%20network. [Accessed: 02-Dec-2022].
+[3]	“CUDOS blockchain,” CUDOS. [Online]. Available: https://www.cudos.org/. [Accessed: 02-Dec-2022].
+
 
 
 
